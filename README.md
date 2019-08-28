@@ -31,7 +31,7 @@ Everything here is highly recommended. I've put *s by the things I believe to be
 
 - [React Basic Conceptual Model](https://github.com/reactjs/react-basic)* - React mental model as understood by Sebastian Markbåge, React core team member; these concepts help to pull everything together
 
-Write React in a functional language! At least for small demo projects. This has been an immensely rewarding experience in my own case.
+### Write React in a functional language! At least for small demo projects. This has been an immensely rewarding experience in my own case.***
 
 - [ReasonML](https://reasonml.github.io/) - OCaml for JS; statically typed language developed by the creator of React; you can think of this as the way the React creator intended it to be written
 - ClojureScript - [re-frame](https://github.com/Day8/re-frame) & [Learn re-frame](https://www.learnreframe.com/), [Rum](https://github.com/tonsky/rum), [Om](https://github.com/omcljs/om) (I prefer re-frame)
